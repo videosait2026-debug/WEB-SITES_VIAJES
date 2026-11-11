@@ -1,0 +1,6 @@
+{
+  "name": "Fersites Bolivia - Viajes Tecnológicos",
+  "description": "Experiencia cinematográfica y editorial de viajes por Bolivia: Salar de Uyuni, Copacabana, Tiwanaku, Yungas e Isla del Sol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
